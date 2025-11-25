@@ -1,4 +1,3 @@
-```
 # Node
 node_modules/
 npm-debug.log
@@ -19,8 +18,3 @@ logs/
 .vercel/
 build/
 dist/
-
-# OS
-.DS_Store
-Thumbs.db
-```

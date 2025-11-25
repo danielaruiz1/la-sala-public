@@ -26,3 +26,4 @@
 * Clean modular backend (routes, controllers, services).
 * Database schema optimized for content-driven applications.
 * Admin tools for managing content without modifying code.
+* Testing strategy includes unit, integration, and end-to-end tests executed progressively across all development phases.

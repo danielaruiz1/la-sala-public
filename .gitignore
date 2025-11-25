@@ -1,0 +1,26 @@
+```
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Env files
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+
+# Build outputs
+.next/
+.vercel/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+```
